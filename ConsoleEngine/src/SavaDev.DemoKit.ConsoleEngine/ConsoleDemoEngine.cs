@@ -1,4 +1,4 @@
-using SavaDev.DemoKit.ConsoleEngine.Options;
+using SavaDev.DemoKit.ConsoleEngine.Args;
 using SavaDev.DemoKit.ConsoleEngine.Services;
 
 namespace SavaDev.DemoKit.ConsoleEngine;

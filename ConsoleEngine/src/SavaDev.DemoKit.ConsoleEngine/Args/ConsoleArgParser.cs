@@ -1,6 +1,4 @@
-using SavaDev.DemoKit.ConsoleEngine.Options;
-
-namespace SavaDev.DemoKit.ConsoleEngine.Services;
+namespace SavaDev.DemoKit.ConsoleEngine.Args;
 
 /// <summary>
 /// Parses command-line arguments relevant to the demo host.

@@ -1,4 +1,4 @@
-namespace SavaDev.DemoKit.ConsoleEngine.Options;
+namespace SavaDev.DemoKit.ConsoleEngine.Args;
 
 /// <summary>
 /// Represents parsed command-line flags for the demo host.
