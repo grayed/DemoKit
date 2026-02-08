@@ -1,4 +1,5 @@
 using SavaDev.DemoKit.ConsoleEngine.Demo.Scenarios;
+using SavaDev.DemoKit.ConsoleEngine.Demo.Scenarios.TicTacToe;
 
 namespace SavaDev.DemoKit.ConsoleEngine.Demo;
 
@@ -54,5 +55,6 @@ internal class Demonstration
             new CountdownScenario(),
             new ErrorScenario(),
             new CtrlCScenario(),
+            new TicTacToeScenario(new(7, 3), BoardOptions.Default),
         ];
 }
